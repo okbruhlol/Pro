@@ -9,7 +9,7 @@ local TS = game:GetService("TweenService")
 local Plr = Players.LocalPlayer
 
 local SelfModules = {
-    Functions = loadstring(game:HttpGet("https://raw.githubusercontent.com/okbruhlol/ok/main/Functions"))(),
+    Functions = loadstring(game:HttpGet("https://raw.githubusercontent.com/okbruhlol/Pro/main/Functions"))(),
 }
 local ModuleScripts = {
     Achievements = require(ReSt.Achievements),
