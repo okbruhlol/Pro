@@ -1,5 +1,5 @@
 -- Achievement
-local Achievements = loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Utilities/main/Doors/Custom%20Achievements/Source.lua"))()
+local Achievements = loadstring(game:HttpGet("https://raw.githubusercontent.com/okbruhlol/ok/main/Notification"))()
 
 -- Creates and displays your custom achievement
 Achievements.Get({
