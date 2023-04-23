@@ -1,0 +1,10 @@
+-- Achievement
+local Achievements = loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Utilities/main/Doors/Custom%20Achievements/Source.lua"))()
+
+-- Creates and displays your custom achievement
+Achievements.Get({
+    Title = "Copy And Paste",
+    Desc = "Controls: C = Copy, V = Paste, X = Delete",
+    Reason = 'https://discord.gg/Tf2yXfkB8S',
+    Image = "https://yt3.googleusercontent.com/u2UIetZPZK_cSzZ7rMIffLp7-6Jw1OJeCE5AczGWIuBFhMScisIcWIk6QAtuGoO_PUch86vWPI8=s176-c-k-c0x00ffffff-no-rj",
+})
