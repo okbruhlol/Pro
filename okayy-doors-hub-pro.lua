@@ -128,7 +128,7 @@ MainTab:CreateButton({
 Name = "Huggy Wuggy", 
 CurrentValue = false, 
 Callback = function(Value) 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/okbruhlol/HuggyWuggy/main/wuggy.shears'))() 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/okbruhlol/HuggyWuggy/main/wuggy.shears"))() 
 end 
 }) 
 
