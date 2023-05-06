@@ -1,4 +1,4 @@
-Welcome to okayy's script! This is a paid access version of my script hub! This is HWIDLocked and costs $5 USD! Join the Discord server to buy this!
+Free source code. Feel free to use!
 
 Update 1.16 Fixes
 
