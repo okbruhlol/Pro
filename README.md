@@ -1,5 +1,7 @@
 Free source code. Feel free to use!
 
+(DISCONTINUED)
+
 Update 1.16 Fixes
 
 Fixed bugs, added more stuff, etc
